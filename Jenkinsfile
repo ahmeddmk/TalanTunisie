@@ -5,7 +5,7 @@ pipeline {
             steps {
                 git {
                     url 'https://github.com/ahmeddmk/TalanTunisie'
-                    credentialsId 'talan'
+                    credentialsId 'push'
                 }
             }
         }
