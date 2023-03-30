@@ -3,9 +3,8 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git {
-                    url 'https://github.com/ahmeddmk/TalanTunisie'
-                    credentialsId 'push'
+                git {url 'https://github.com/ahmeddmk/TalanTunisie.git'
+                     credentialsId 'push'
                 }
             }
         }
