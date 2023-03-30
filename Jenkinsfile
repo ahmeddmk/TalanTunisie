@@ -4,24 +4,24 @@ pipeline {
         stage('Checkout') {
             steps {
                 git {
-                    url 'https://github.com/ahmeddmk/TalanTunisie.git'
+                    url 'https://github.com/ahmeddmk/TalanTunisie'
                     credentialsId 'ahmed'
                 }
             }
         }
         stage('Build') {
             steps {
-                // Insert your build steps here
+                sh 'echo "Hello, World!"'
             }
         }
         stage('Test') {
             steps {
-                // Insert your test steps here
+                sh 'echo "Hello, World!"'
             }
         }
         stage('Deploy') {
             steps {
-                // Insert your deploy steps here
+                sh 'echo "Hello, World!"'
             }
         }
         stage('Create Pull Request') {
