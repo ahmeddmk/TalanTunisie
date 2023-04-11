@@ -1,0 +1,8 @@
+[1120/215933.426:VERBOSE1:setup_main.cc(1508)] Command Line: "C:\Program Files (x86)\BraveSoftware\Update\Install\{9A90D63D-A33F-413D-B2C1-3E95603AD7D3}\CR_6B509.tmp\setup.exe" --system-level --verbose-logging --create-shortcuts=0 --install-level=1
+[1120/215933.426:VERBOSE1:setup_main.cc(1514)] system install is 1
+[1120/215933.427:VERBOSE1:install_util.cc(215)] Existing Chrome version found: 107.1.45.127
+[1120/215933.427:VERBOSE1:installer_state.cc(87)] Install Chrome
+[1120/215933.450:VERBOSE1:install_util.cc(246)] Windows NT 10.0.19041
+[1120/215933.451:VERBOSE1:install.cc(123)] Creating all-users Desktop "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[1120/215933.942:VERBOSE1:install.cc(123)] Creating per-user Quick Launch "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
+[1120/215934.022:VERBOSE1:install.cc(123)] Creating all-users Start menu "Brave" shortcut to C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe.
