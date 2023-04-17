@@ -1,0 +1,28 @@
+
+Informatica(r) PMREP, version [9.1.0], build [286.0307], Windows 32-bit
+Copyright (c) Informatica Corporation 1994 - 2011
+All Rights Reserved.
+This Software is protected by U.S. Patent Numbers 5,794,246; 6,014,670; 6,016,501; 6,029,178; 6,032,158; 6,035,307; 6,044,374; 6,092,086; 6,208,990; 6,339,775; 6,640,226; 6,789,096; 6,820,077; 6,823,373; 6,850,947; 6,895,471; 7,117,215; 7,162,643; 7,254,590; 7,281,001; 7,421,458; 7,496,588; 7,523,121; 7,584,422; 7,720,842; 7,721,270; and 7,774,791, international Patents and other Patents Pending.
+
+Invoked at Mon Apr 17 13:24:12 2023
+
+Validating transformations of mapping M_SRC_Employees...
+...transformation validation completed with no errors.
+Validating data flow of mapping M_SRC_Employees...
+...data flow validation completed with no errors.
+Parsing mapping M_SRC_Employees...
+...parsing completed with no errors.
+
+******** Mapping M_SRC_Employees is VALID ********
+
+*************** Summary ***************
+Objects provided for validation: 1
+Objects skipped: 0
+Objects that were invalid before the validation: 0
+Objects successfully validated: 1
+Objects that are still invalid after the validation: 0
+Validated objects that were Saved/Checked in: 0
+Cannot save objects due to lock conflict: 0
+validate completed successfully.
+
+Completed at Mon Apr 17 13:24:17 2023
